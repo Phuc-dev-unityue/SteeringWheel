@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal/Learn/VehicleVarietyPackVolume2/Content/VehicleVarietyVol2/Blueprints/SUV/SUV_Config/ABP_SUV_Chaos.uasset",
+				"E:/Unreal/Learn/VehicleVarietyPackVolume2/Content/Untitled.umap",
+				"E:/Unreal/Learn/VehicleVarietyPackVolume2/Content/VehicleVarietyVol2/Blueprints/SUV/BP_SUV_Chaos.uasset"
+			]
+		}
+	]
+}
